@@ -1,0 +1,623 @@
+﻿{
+    "uid": "bd4d768f82c5628a",
+    "mpn": "206062-1",
+    "brand": {
+        "homepage_url": "http://www.te.com/",
+        "__class__": "Brand",
+        "name": "TE Connectivity",
+        "uid": "c4f105fbe7591336"
+    },
+    "__class__": "Part",
+    "offers": [
+        {
+            "sku": "74114902617",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-22T11:02:13Z",
+            "order_multiple": null,
+            "in_stock_quantity": 0,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "Carlton-Bates",
+                "__class__": "Seller",
+                "homepage_url": "http://www.carltonbates.com",
+                "uid": "52cf97c53c688108"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=059387c&sid=18369&ppid=46668526&vpid=116925270&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {
+                "USD": [
+                    [
+                        1,
+                        "5.27000"
+                    ]
+                ]
+            },
+            "is_authorized": true,
+            "is_realtime": false
+        },
+        {
+            "sku": "A1330-ND",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-20T13:10:21Z",
+            "order_multiple": null,
+            "in_stock_quantity": 0,
+            "eligible_region": null,
+            "moq": 1,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "Digi-Key",
+                "__class__": "Seller",
+                "homepage_url": "http://www.digikey.com",
+                "uid": "2c3be9310496fffc"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0664524&sid=459&ppid=46668526&vpid=198705162&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": 93,
+            "prices": {
+                "USD": [
+                    [
+                        1,
+                        "4.26000"
+                    ],
+                    [
+                        25,
+                        "3.95200"
+                    ],
+                    [
+                        50,
+                        "3.45280"
+                    ],
+                    [
+                        100,
+                        "3.05760"
+                    ],
+                    [
+                        500,
+                        "2.80800"
+                    ],
+                    [
+                        1000,
+                        "2.60000"
+                    ]
+                ]
+            },
+            "is_authorized": true,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-04-24T13:11:30Z",
+            "order_multiple": null,
+            "in_stock_quantity": 5263,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "name": "Abacus Technologies",
+                "__class__": "Seller",
+                "homepage_url": "http://www.abacuselect.com/",
+                "uid": "7ff1bafb33aaac36"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=02f9433&sid=25917&ppid=46668526&vpid=195702226&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": true,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-22T08:33:25Z",
+            "order_multiple": null,
+            "in_stock_quantity": 709,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "name": "Components Center",
+                "__class__": "Seller",
+                "homepage_url": "http://www.componentscenter.com/",
+                "uid": "34b1f1bb38f9e776"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0c7ffd9&sid=9518&ppid=46668526&vpid=122390831&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": true,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-22T08:34:46Z",
+            "order_multiple": null,
+            "in_stock_quantity": 709,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "name": "Dalis Electronics",
+                "__class__": "Seller",
+                "homepage_url": "http://www.daliselectronics.com",
+                "uid": "864f43459a405588"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=05731dc&sid=13673&ppid=46668526&vpid=135557244&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": true,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-21T08:09:43Z",
+            "order_multiple": null,
+            "in_stock_quantity": 9,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": "http://octopart.com/rfq/generate?ppid=46668526&vpid=146820410",
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "name": "PUI",
+                "__class__": "Seller",
+                "homepage_url": "http://www.gopui.com/",
+                "uid": "da1f1f15fad409d8"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0ff9fc6&sid=2477&ppid=46668526&vpid=146820410&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": true,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-22T00:01:18Z",
+            "order_multiple": null,
+            "in_stock_quantity": 0,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "Power and Signal Group",
+                "__class__": "Seller",
+                "homepage_url": "http://www.powerandsignal.com",
+                "uid": "beb37bb9b5066d74"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0c53fe5&sid=8915&ppid=46668526&vpid=165906826&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": true,
+            "is_realtime": false
+        },
+        {
+            "sku": "494039",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-21T18:32:18Z",
+            "order_multiple": null,
+            "in_stock_quantity": 291,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "Jameco",
+                "__class__": "Seller",
+                "homepage_url": "http://www.jameco.com",
+                "uid": "bab57fbf9ab96972"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=082cc01&sid=2410&ppid=46668526&vpid=115098426&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {
+                "USD": [
+                    [
+                        1,
+                        "3.95000"
+                    ],
+                    [
+                        10,
+                        "3.49000"
+                    ],
+                    [
+                        100,
+                        "3.19000"
+                    ]
+                ]
+            },
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-22T10:14:43Z",
+            "order_multiple": null,
+            "in_stock_quantity": 2,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "Quest",
+                "__class__": "Seller",
+                "homepage_url": "http://www.questcomp.com",
+                "uid": "b29977939293615e"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=061e9c1&sid=2412&ppid=46668526&vpid=176280934&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {
+                "USD": [
+                    [
+                        1,
+                        "3.75000"
+                    ]
+                ]
+            },
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-21T15:25:59Z",
+            "order_multiple": null,
+            "in_stock_quantity": 0,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "Freelance Electronics",
+                "__class__": "Seller",
+                "homepage_url": "http://rcfreelance.com/",
+                "uid": "029cc79618fcd15b"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=03edda6&sid=13062&ppid=46668526&vpid=128077910&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {
+                "USD": [
+                    [
+                        1,
+                        "1.00000"
+                    ]
+                ]
+            },
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-21T18:00:06Z",
+            "order_multiple": null,
+            "in_stock_quantity": 120,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "Nexus Electronics",
+                "__class__": "Seller",
+                "homepage_url": "http://nexelec.com",
+                "uid": "e574207e873f36b3"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0ec0786&sid=19245&ppid=46668526&vpid=189077671&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-22T04:57:37Z",
+            "order_multiple": null,
+            "in_stock_quantity": 9,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "EE-USA.com",
+                "__class__": "Seller",
+                "homepage_url": "http://ee-usa.com/",
+                "uid": "7bcfbec54111a808"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0212492&sid=5048&ppid=46668526&vpid=166130858&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-07T20:31:39Z",
+            "order_multiple": null,
+            "in_stock_quantity": 6,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": true,
+                "name": "Angenic",
+                "__class__": "Seller",
+                "homepage_url": "http://angenic.com/Home.awp",
+                "uid": "2071e57b532cf3b6"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=06646ce&sid=23099&ppid=46668526&vpid=141789032&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-08T15:05:41Z",
+            "order_multiple": null,
+            "in_stock_quantity": 1,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "GB",
+                "has_ecommerce": true,
+                "name": "Express Electronics",
+                "__class__": "Seller",
+                "homepage_url": "http://www.express-elect.com",
+                "uid": "0a94cf9e2a60d953"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0c49122&sid=2450&ppid=46668526&vpid=127574805&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-20T22:50:30Z",
+            "order_multiple": null,
+            "in_stock_quantity": 101,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "name": "Classic Components",
+                "__class__": "Seller",
+                "homepage_url": "http://class-ic.com",
+                "uid": "b6997393c3a2655e"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=08555a3&sid=23645&ppid=46668526&vpid=171554461&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-21T22:19:23Z",
+            "order_multiple": null,
+            "in_stock_quantity": 9,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "name": "NetSource Technology",
+                "__class__": "Seller",
+                "homepage_url": "http://www.nstechnology.com",
+                "uid": "a93a6c30b6097afd"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=057b03f&sid=13909&ppid=46668526&vpid=166406495&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-14T20:35:34Z",
+            "order_multiple": null,
+            "in_stock_quantity": 1,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "CA",
+                "has_ecommerce": false,
+                "name": "Component Electronics",
+                "__class__": "Seller",
+                "homepage_url": "http://www.componentonline.com",
+                "uid": "7c78b9721661afbf"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0b44986&sid=17279&ppid=46668526&vpid=158521927&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-22T13:48:59Z",
+            "order_multiple": null,
+            "in_stock_quantity": 10,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": null,
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "name": "EDX",
+                "__class__": "Seller",
+                "homepage_url": "http://www.edxelectronics.com/",
+                "uid": "ee682b62ce783daf"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0c6ce7b&sid=2422&ppid=46668526&vpid=135037675&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-21T15:38:39Z",
+            "order_multiple": null,
+            "in_stock_quantity": 1,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": "http://octopart.com/rfq/generate?ppid=46668526&vpid=190498670",
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "GB",
+                "has_ecommerce": false,
+                "name": "Cyclops Electronics",
+                "__class__": "Seller",
+                "homepage_url": "http://www.cyclops-electronics.com",
+                "uid": "6bd5aedf7d8db812"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=0e73151&sid=16190&ppid=46668526&vpid=190498670&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        },
+        {
+            "sku": "206062-1",
+            "packaging": null,
+            "on_order_eta": null,
+            "last_updated": "2015-05-19T15:02:20Z",
+            "order_multiple": null,
+            "in_stock_quantity": 3,
+            "eligible_region": null,
+            "moq": null,
+            "on_order_quantity": null,
+            "octopart_rfq_url": "http://octopart.com/rfq/generate?ppid=46668526&vpid=137936105",
+            "__class__": "PartOffer",
+            "seller": {
+                "display_flag": "US",
+                "has_ecommerce": false,
+                "name": "4 Star Electronics",
+                "__class__": "Seller",
+                "homepage_url": "http://www.4starelectronics.com/?utm_source=octopart&utm_medium=inventory&utm_campaign=Octopart",
+                "uid": "18c8ddc205e2cb0f"
+            },
+            "product_url": "https://octopart-clicks.com/click/track?country=US&ak=5eed0c10&sig=08e446f&sid=13388&ppid=46668526&vpid=137936105&ct=offers",
+            "factory_order_multiple": null,
+            "factory_lead_days": null,
+            "prices": {},
+            "is_authorized": false,
+            "is_realtime": false
+        }
+    ],
+    "octopart_url": "http://octopart.com/206062-1-te+connectivity-46668526",
+    "manufacturer": {
+        "homepage_url": "http://www.te.com/",
+        "__class__": "Manufacturer",
+        "name": "TE Connectivity",
+        "uid": "f271377bf41821b6"
+    }
+}
