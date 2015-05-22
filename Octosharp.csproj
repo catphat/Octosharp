@@ -49,11 +49,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers\OctoEnums.cs" />
+    <Compile Include="Helpers\RequestValueEnumAttributes.cs" />
+    <Compile Include="Interfaces\IOctoRequest.cs" />
     <Compile Include="OctoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Requests\PartsRequest.cs" />
+    <Compile Include="Requests\QueryParameter.cs" />
+    <Compile Include="Responses\OctoJsonResponse.cs" />
+    <Compile Include="Responses\PartObjectResponse.cs" />
+    <None Include="_etc\sample-responses\PartByUID.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Queries\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
