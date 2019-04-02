@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using Octosharp.Responses;
 
 namespace Octosharp.Requests
 {
     //example: http://octopart.com/api/v3/parts/103cdb613d20cffb?apikey=APIKEYGOESHERE
-    public class PartsRequest : IOctoRequest<>
+    public class PartsRequest : IOctoRequest<OctoJsonResponse>
     {
         private readonly string _endpoint;
 
